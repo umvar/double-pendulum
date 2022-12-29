@@ -2,7 +2,7 @@
 
 ![Double Pendulum Trajectories](./images/rk4_trajectory.png)
 
-This project is a double pendulum numerical solver using Runge-Kutta 4th Order methods for integration.
+Double pendulum numerical solver that uses Runge-Kutta 4th Order methods for integration.
 
 It plots the angles of the pendulums over time, the angular velocities 
 of the pendulums over time, and the trajectories of the pendulums by 
